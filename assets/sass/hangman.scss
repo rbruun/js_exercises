@@ -90,6 +90,12 @@ $line: 3px solid black;
     left: 200px;
     display: flex;
 }
+#guesses {
+    position: absolute;
+    top: 400px;
+    left: 100px;
+    display: flex;
+}
 .letter {
     width: 15px;
     margin-right: 8px;
